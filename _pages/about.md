@@ -18,10 +18,10 @@ Research Interests
 
 Education
 ======
-**Central South University**&nbsp;&nbsp;&nbsp;&nbsp;**School of Minerals Processing and Bioengineering**
+**Central South University**&nbsp;**School of Minerals Processing and Bioengineering**
 <span style="line-height: 1;">  
 <em>M. Sc. in Resources and Environment</em> 
-</span>&nbsp;&nbsp;&nbsp;&nbsp;<em>Sep. 2021 - Now</em>
+</span>&nbsp;<em>Sep. 2021 - Now</em>
 
 Relevant Courses:
 - Flotation Interface Chemistry
@@ -31,10 +31,10 @@ Relevant Courses:
 
 
 
-**Wuhan Institute of Technology**&nbsp;&nbsp;&nbsp;&nbsp;**School of Resources and Safety Engineering**
+**Wuhan Institute of Technology**&nbsp;**School of Resources and Safety Engineering**
 <span style="line-height: 1;">  
 <em>B. Eng. in Mineral Processing Engineering </em> 
-</span>&nbsp;&nbsp;&nbsp;&nbsp;<em>Sep. 2016−Jun. 2020</em>
+</span>&nbsp;<em>Sep. 2016−Jun. 2020</em>
 
 Relevant Courses:
 - Organic Chemistry
