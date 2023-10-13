@@ -1,15 +1,8 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+- "**Z. Guo**, S. Khoso, J. Wang, et al. Interaction mechanism of 2-hydroxy-3-naphthyl hydroxamic acid and 1-hydroxy-2-naphthyl hydroxamic acid in the flotation separation of bastnaesite/fluorite: Experiments and first-principles calculations. Sep. Purif. Technol. 285 (2022) 120307", [https://doi.org/10.1016/j.seppur.2021.120307](https://doi.org/10.1016/j.seppur.2021.120307). (**IF=8.6, Q1**)
+- **Z. Guo**, M. Tian, G. Qian, et al. Flotation separation of bastnaesite and fluorite using styrylphosphonic acid and cinnamohydroxamic acid as collectors. J. Mol. Liq. 362 (2022) 119766, [https://doi.org/10.1016/j.molliq.2022.119766](https://doi.org/10.1016/j.molliq.2022.119766). (**IF=6.0, Q1**)
+- **Z. Guo**, M. Tian, Z. Gao, et al. A novel surfactant N-hydroxy-9,10-epoxy group-octadecanamide. Part Ⅰ. Application in the flotation separation of fluorite/calcite and adsorption selectivity on the mineral surfaces. J. Mol. Liq. 387 (2023) 122563, [https://doi.org/10.1016/j.molliq.2023.122563](https://doi.org/10.1016/j.molliq.2023.122563). (**IF=6.0, Q1**)
+- **S. Nie**, Z. Guo, M. Tian, et al. Selective flotation separation of cassiterite and calcite through using cinnamohydroxamic acid as the collector and Pb2+ as the activator. Colloids Surf. A Physicochem. Eng. Asp. 666 (2023) 131262, [https://doi.org/10.1016/j.colsurfa.2023.131262](https://doi.org/10.1016/j.colsurfa.2023.131262). (**IF=5.2, Q2**)
+- **Z. Guo**, S.A. Khoso, M. Tian, et al. Utilizing N-hydroxy-9-octadecenamide as a collector in flotation separation of bastnaesite and fluorite. J. Rare Earths (2023), [https://doi.org/10.1016/j.jre.2023.07.001](https://doi.org/10.1016/j.jre.2023.07.001). (**IF=4.9, Q1**)
+- **Z. Guo**, P. Liu, W. Zhang, et al. An integrated experimental and computational investigation of N,9,10-trihydroxyoctadecanamide as a potential collector for the flotation separation of fluorite and calcite. Miner. Eng (2023), Proof, (**IF=4.8, Q1**)
