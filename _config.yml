@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://ZhihaoGuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhihaoGuoProfileZhihaoGuo.github.io"
+repository               : "ZhihaoGuoProfile/ZhihaoGuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,38 +83,38 @@ author:
   name             : "Zhihao Guo"
   avatar           : "me.png"
   bio              : "Be yourself"
-  location         : "932 Lushan South Road, Changsha City, Hunan Province"
+  932 Lushan South Road, Changsha City, Hunan Province: "932 Lushan South Road, Changsha City, Hunan Province"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=ODIHPX8AAAAJ&hl=zh-CN"
   email            :
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+ #researchgate: 
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  #github           : 
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : 
+  #lastfm           :
+  #linkedin         :
+  #orcid            : 
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : 
+  #steam            :
+  #tumblr           :
+  #twitter          : 
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
